@@ -3,5 +3,7 @@ var myObj = function(obj) {
         console.log("It's a string!")
     } else {
         return "It's not a string"
-    };
+  };
 };
+
+myObj(3);
