@@ -1,0 +1,7 @@
+var myObj = function(obj) {
+    if (obj === string) {
+        console.log("It's a string!")
+    } else {
+        return "It's not a string"
+    };
+};
